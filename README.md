@@ -22,8 +22,6 @@ To run the app, follow these steps:
 3. The app will display the original image, the predicted mask, and an overlay of the image with the predicted mask.
 4. Use the slider to adjust the transparency of the mask overlay.
 
-## About the Author
-This app was developed by Yash Patil.
 
 ## About
 This application segments brain tumors from MRI images using a trained U-Net model. Upload an MRI image to get started!
