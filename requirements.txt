@@ -1,11 +1,8 @@
-numpy
-scikit-image
-opencv-python
-matplotlib
-streamlit
-
-
-
 1.conda create -n tf2.13 python=3.8
 2.conda activate tf2.13
-3.pip install tensorflow==2.13.0
+3.pip install tensorflow==2.13.0 numpy scikit-image opencv-pyhton matplotlib streamlit
+
+
+
+
+
