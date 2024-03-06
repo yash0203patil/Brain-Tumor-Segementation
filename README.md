@@ -1,6 +1,5 @@
 # Brain Tumor Segmentation App
 
-![Brain Tumor Segmentation](https://via.placeholder.com/800x300)
 
 ## Overview
 This Streamlit application segments brain tumors from MRI images using a trained U-Net model. Users can upload an MRI image, and the app will generate a predicted mask highlighting the tumor region.
